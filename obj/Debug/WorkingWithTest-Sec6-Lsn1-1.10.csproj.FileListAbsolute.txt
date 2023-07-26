@@ -1,0 +1,8 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\WorkingWithTest-Sec6-Lsn1-1.10\WorkingWithTest-Sec6-Lsn1-1.10\bin\Debug\WorkingWithTest-Sec6-Lsn1-1.10.exe.config
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\WorkingWithTest-Sec6-Lsn1-1.10\WorkingWithTest-Sec6-Lsn1-1.10\bin\Debug\WorkingWithTest-Sec6-Lsn1-1.10.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\WorkingWithTest-Sec6-Lsn1-1.10\WorkingWithTest-Sec6-Lsn1-1.10\bin\Debug\WorkingWithTest-Sec6-Lsn1-1.10.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\WorkingWithTest-Sec6-Lsn1-1.10\WorkingWithTest-Sec6-Lsn1-1.10\obj\Debug\WorkingWithTest-Sec6-Lsn1-1.10.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\WorkingWithTest-Sec6-Lsn1-1.10\WorkingWithTest-Sec6-Lsn1-1.10\obj\Debug\WorkingWithTest-Sec6-Lsn1-1.10.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\WorkingWithTest-Sec6-Lsn1-1.10\WorkingWithTest-Sec6-Lsn1-1.10\obj\Debug\WorkingWithTest-Sec6-Lsn1-1.10.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\WorkingWithTest-Sec6-Lsn1-1.10\WorkingWithTest-Sec6-Lsn1-1.10\obj\Debug\WorkingWithTest-Sec6-Lsn1-1.10.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\WorkingWithTest-Sec6-Lsn1-1.10\WorkingWithTest-Sec6-Lsn1-1.10\obj\Debug\WorkingWithTest-Sec6-Lsn1-1.10.pdb
